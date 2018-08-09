@@ -1272,9 +1272,9 @@
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.0.tgz#50c1e2260ac0ed9439a181de3725a0168d59c48a"
 
-"@pollyjs/adapter-puppeteer@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@pollyjs/adapter-puppeteer/-/adapter-puppeteer-1.1.0.tgz#d4cb7e9640cf5fd94e78910fa635c82386766278"
+"@pollyjs/adapter-puppeteer@^1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@pollyjs/adapter-puppeteer/-/adapter-puppeteer-1.1.1.tgz#b7b879c8a0457a6988e4a19fa0ac76598aadc87f"
   dependencies:
     "@pollyjs/adapter" "^1.1.0"
     "@pollyjs/utils" "^1.0.0"

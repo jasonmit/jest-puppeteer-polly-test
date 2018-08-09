@@ -7,7 +7,7 @@ class App extends Component {
 
   async componentDidMount() {
     try {
-      const response = await axios.get('https://aws.random.cat/meow');
+      const response = await axios.post('https://jsonplaceholder.typicode.com/posts', {test: 'value'});
 
       console.log('random cat', response.data);
     } catch(e) {
